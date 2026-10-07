@@ -41,11 +41,6 @@ Université Mohammed VI Polytechnique (UM6P).
 ### 4. Current Challenges
 Physics limits and technological challenges of each modality.
 
-## 📁 Repository Structure
-nuclear-physics-in-medicine/
-├── PRESENTATION-1.pptx # Full presentation (editable)
-├── PRESENTATION-1.pdf # PDF export for quick viewing
-└── README.md
 
 ## 👥 Authors
 
